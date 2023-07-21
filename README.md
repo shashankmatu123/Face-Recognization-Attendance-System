@@ -1,1 +1,2 @@
 # Face-Recognization-Attendance-System
+•	Informed decision The face recognition attendance system is a python project that utilizes the face recognizes library its employs facial recognition algorithms to identify individuals in real time using a webcam. The system capture facial features compares them to pre-registered data, and record attendance for recognized faces. The project offers a user friendly and efficient solution for automating attendance tracking processes in education institution and corporate environment
